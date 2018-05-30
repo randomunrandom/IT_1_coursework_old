@@ -1,5 +1,5 @@
 import time
-import const #file const should contain string variable token, equals to bot's token
+import const #file 'const' should contain string variable 'token', equals to bot's token
 import telegram as tg
 import telegram.ext as tgext
 import numpy as np
